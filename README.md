@@ -4,12 +4,12 @@ Hey there! I'm Gökhan Güler, a 20(nearly) years old learner studying Computer 
 
 ## Current Focus
 I'm currently dedicated to honing my programming skills and expanding my knowledge in various languages, including:
-- C
-- C++
-- Python
+- C/CPP
+- Phyton
+- Nodejs
   
 ## Connect with Me
-- [Twitter](https://twitter.com/yozheim)
+- E-Mail : gokhanguler1995@gmail.com 
 
 
 
