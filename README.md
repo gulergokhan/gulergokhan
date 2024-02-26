@@ -8,8 +8,7 @@ I'm currently dedicated to honing my programming skills and expanding my knowled
 - Python
 - Nodejs
   
-## Connect with Me
-- E-Mail : gokhanguler1995@gmail.com 
+
 
 
 
