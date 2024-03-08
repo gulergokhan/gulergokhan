@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=300&size=100&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=200&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=300&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=200&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Eng." alt="Typing SVG" /></a>
+
+
+
 Hey there! I'm Gökhan Güler, a 20(nearly) years old learner studying Computer Engineering at Çankaya University.(First Year)
 
 ## Current Focus
