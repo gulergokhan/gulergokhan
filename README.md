@@ -12,7 +12,7 @@
 I'm currently dedicated to honing my programming skills and expanding my knowledge in various languages, including:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,,cpp,,c,,python,,github,,html,,ps,,&theme=dark" />![ceng_emblem_tr](https://github.com/gulergokhan/gulergokhan/assets/151137955/81cf8d45-8897-4d75-a180-16a972f3962c)
+    <img src="https://skillicons.dev/icons?i=git,,cpp,,c,,python,,github,,html,,ps,,&theme=dark" />
 
   </a>
 </p>
