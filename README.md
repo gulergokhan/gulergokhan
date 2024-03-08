@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gulergokhan.gulergokhan"  />
-## Introduction
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gulergokhan.readme" />
 Hey there! I'm Gökhan Güler, a 20(nearly) years old learner studying Computer Engineering at Çankaya University.(First Year)
 
 ## Current Focus
