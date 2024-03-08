@@ -1,4 +1,4 @@
-<img align="right" src=" ![visitors]https://visitor-badge.laobi.icu/badge?page_id=gulergokhan.gulergokhan" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=300&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University" alt="Typing SVG" /></a>
 Hey there! I'm Gökhan Güler, a 20(nearly) years old learner studying Computer Engineering at Çankaya University.(First Year)
 
 ## Current Focus
