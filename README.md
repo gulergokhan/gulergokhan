@@ -18,7 +18,7 @@ I'm currently dedicated to honing my programming skills and expanding my knowled
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gulergokhan&theme=merko&hide_total_contributions=true" alt="GitHub Streak" /></a>
+
 
 
 
