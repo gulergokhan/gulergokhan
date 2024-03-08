@@ -21,7 +21,8 @@ I'm currently dedicated to honing my programming skills and expanding my knowled
 
 ## --------------------------------------------------------------------------------------------------------
 
-![ceng_emblem_tr](https://github.com/gulergokhan/gulergokhan/assets/151137955/142e22d1-d35a-4a06-ad07-36a2fb415dcb)
+![rsz_1ceng_emblem_en](https://github.com/gulergokhan/gulergokhan/assets/151137955/14cc038c-9f32-4333-807d-b3fc690d35cc)
+
 
 ![Çankaya_Üniversitesi_logo](https://github.com/gulergokhan/gulergokhan/assets/151137955/c68c8b68-abd7-4f0b-854b-ddac0deb2afc)
 
