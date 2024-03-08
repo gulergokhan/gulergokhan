@@ -13,18 +13,16 @@ I'm currently dedicated to honing my programming skills and expanding my knowled
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,,cpp,,c,,python,,github,,html,,ps,,&theme=dark" />![ceng_emblem_tr](https://github.com/gulergokhan/gulergokhan/assets/151137955/81cf8d45-8897-4d75-a180-16a972f3962c)
-![ceng_emblem_tr](https://github.com/gulergokhan/gulergokhan/assets/151137955/0b3fc45d-f894-45b1-b22e-687a50bd1bde)
-![ceng_emblem_tr](https://github.com/gulergokhan/gulergokhan/assets/151137955/c906243f-2c06-463c-ae61-52da22cfd204)
 
   </a>
 </p>
 
 ## --------------------------------------------------------------------------------------------------------
 
-![rsz_1ceng_emblem_en](https://github.com/gulergokhan/gulergokhan/assets/151137955/14cc038c-9f32-4333-807d-b3fc690d35cc)
+![rsz_1ceng_emblem_en](https://github.com/gulergokhan/gulergokhan/assets/151137955/14cc038c-9f32-4333-807d-b3fc690d35cc)    ![Çankaya_Üniversitesi_logo](https://github.com/gulergokhan/gulergokhan/assets/151137955/c68c8b68-abd7-4f0b-854b-ddac0deb2afc)
 
 
-![Çankaya_Üniversitesi_logo](https://github.com/gulergokhan/gulergokhan/assets/151137955/c68c8b68-abd7-4f0b-854b-ddac0deb2afc)
+
 
 
 
