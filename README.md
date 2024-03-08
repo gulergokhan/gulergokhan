@@ -9,7 +9,7 @@
 I'm currently dedicated to honing my programming skills and expanding my knowledge in various languages, including:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,github,html,ps,c,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,,python,github,html,ps,&theme=dark" />
   </a>
 </p>
 
