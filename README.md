@@ -14,10 +14,6 @@ I'm currently dedicated to honing my programming skills and expanding my knowled
 </p>
 
 
-  
-![solid-snake-metal-gear-solid](https://github.com/gulergokhan/gulergokhan/assets/151137955/67811d98-4075-4306-917c-f716c6b142b5)
-
-
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gulergokhan&theme=merko&hide_total_contributions=true" alt="GitHub Streak" /></a>
