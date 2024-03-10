@@ -1,6 +1,6 @@
 ## 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=33&pause=1000&color=909234&random=false&width=435&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Eng." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=33&pause=1000&color=909234&random=false&width=435&height=200&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Eng.)](https://git.io/typing-svg)
 
 
 ## 
