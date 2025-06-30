@@ -6,13 +6,12 @@
 ## 
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="gulergokhan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gökhan-güler-5110a1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan-güler-5110a1112" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gulergokhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gulergokhan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30930377/gulergokhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30930377/gulergokhan" height="30" width="40" /></a>
 <a href="https://instagram.com/kudvus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kudvus" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gulergokhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gulergokhan" height="30" width="40" /></a>
 </p>
