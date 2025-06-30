@@ -1,6 +1,6 @@
 ## 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Math&weight=600&size=37&pause=1000&color=FFFFFF&width=435&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Engineering" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libertinus+Math&weight=600&size=54&pause=1000&color=FFFFFF&width=437&height=200&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Engineering)](https://git.io/typing-svg)
 
 
 ## 
@@ -21,8 +21,7 @@
 
 
 
-![rsz_1ceng_emblem_en](https://github.com/gulergokhan/gulergokhan/assets/151137955/14cc038c-9f32-4333-807d-b3fc690d35cc)  
-![Çankaya_Üniversitesi_logo](https://github.com/gulergokhan/gulergokhan/assets/151137955/c68c8b68-abd7-4f0b-854b-ddac0deb2afc)
+
 
 
 
