@@ -1,6 +1,6 @@
 ## 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Math&weight=600&size=39&pause=1000&color=FFFFFF&width=437&height=200&lines=G%C3%B6khan+G%C3%BCler;%C3%87ankaya+University;Computer+Engineering" alt="Typing SVG" /></a>
+
 
 
 ## 
